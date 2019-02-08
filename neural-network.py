@@ -1,7 +1,6 @@
 """
 This module contains classes and helper functions 
 for running various types of neural networks.
-TODO: n-grams?
 """
 
 import pickle
